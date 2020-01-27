@@ -5,4 +5,5 @@ test2
 Test 3
 
 use branch
-Feature 2
+
+this is feature 1
