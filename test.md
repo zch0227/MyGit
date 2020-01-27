@@ -6,4 +6,4 @@ Test 3
 
 use branch
 
-this is feature 1
+this is feature 1+bug fix
