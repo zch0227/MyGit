@@ -8,4 +8,4 @@ use branch
 
 this is feature 1
 
-Feature1 
+Feature1 +bug fixer
