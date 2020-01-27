@@ -6,4 +6,6 @@ Test 3
 
 use branch
 
-this is feature 1+bug fix
+this is feature 1
+
+stashed store
